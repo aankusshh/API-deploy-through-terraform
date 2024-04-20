@@ -1,1 +1,1 @@
-!(images/Objective)
+![](images/Objective.png)
