@@ -1,1 +1,1 @@
-![Alt Text](images/Objective)
+!(images/Objective)
