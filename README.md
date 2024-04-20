@@ -1,1 +1,1 @@
-Alt[](Images/Objective)
+![](Images/Objective)
